@@ -1,3 +1,3 @@
-let box = document.getElementById("box")
+// let box = document.getElementById("box")
 
-box.innerHTML = "hello akjol"
+// box.innerHTML = "hello akjol"
